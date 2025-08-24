@@ -1,8 +1,8 @@
 [Catedra2025_PDATOS.pdf](https://github.com/user-attachments/files/21959521/Catedra2025_PDATOS.pdf)
 
-**  C´atedra- Procesamiento de Datos
+**  Catedra- Procesamiento de Datos
 
- **  Mag´ıster en Data Science
+ **  Magıster en Data Science
  18 Agosto 2025
  Instrucciones
  1. Selecciona un conjunto de datos desde UCI Machine Learning Repository, Kaggle
